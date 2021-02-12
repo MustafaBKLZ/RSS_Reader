@@ -22,6 +22,10 @@ namespace rss_reader
             listBox1.Items.Add("https://figurex.net/feed/");
             listBox1.Items.Add("https://www.hurriyet.com.tr/rss/anasayfa");
             listBox1.Items.Add("https://www.youtube.com/feeds/videos.xml?channel_id=UCguHtRRt-FX2CnxfMW-pW8A");
+
+            //https://mustafabukulmez.com/2021/02/12/c-rss-reader-uygulamasi-ve-user-control-kullanimi/
+            //https://www.youtube.com/watch?v=LHB0yF7Y8Js&feature=youtu.be
+
         }
         private void btn_getir_Click(object sender, EventArgs e)    
         {
