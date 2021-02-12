@@ -23,7 +23,7 @@ namespace rss_reader
             listBox1.Items.Add("https://www.hurriyet.com.tr/rss/anasayfa");
             listBox1.Items.Add("https://www.youtube.com/feeds/videos.xml?channel_id=UCguHtRRt-FX2CnxfMW-pW8A");
         }
-        private void btn_getir_Click(object sender, EventArgs e)
+        private void btn_getir_Click(object sender, EventArgs e)    
         {
             Get_RSS();
         }
